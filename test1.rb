@@ -1,4 +1,4 @@
-###ruby 基本语法练习
+###ruby 基本语法练习(与java对比)
 
 class Apple
 
